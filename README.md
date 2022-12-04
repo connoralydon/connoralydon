@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @connoralydon
+👋 Hi, I’m @connoralydon
 
 I work at Wiliot as a Software Engineer on the Data Products & Algorithms team. Wiliot enables firms to quantify information about their physical products and gather useful insights about them. I am a 2022 graduate of Chapman University with a degrees studying Data Science and Economics. I previously worked as a Software Engineering Intern at Toyota Racing Development where I built an application to save $10,000 a year annually. Outside of work I like brushing up on new technology as well as enjoying the great outdoors. I strive to learn every day and do something worthwhile.
 
