@@ -1,4 +1,4 @@
-check out my website [lydon.fyi](https://lydon.fyi)
+[lydon.fyi](https://lydon.fyi)
 
 <!---
 connoralydon/connoralydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
